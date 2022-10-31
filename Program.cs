@@ -7,6 +7,7 @@ namespace part7keep
     {
         static void Main(string[] args)
         {
+            //Brandon Fraser
             Random generator = new Random();
             List<int> numbers = new List<int>();
             for (int i = 1; i <= 25; i++)
